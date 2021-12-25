@@ -1,7 +1,7 @@
 # class Node:
 #     def __init__(self,data = None,next = None): # get data of other
 #         self.data = data #data of given value
-#         self.next = next  # next elemt
+#         self.next = next  # next element
 #
 # class Linklist:
 #     def __init__(self):
